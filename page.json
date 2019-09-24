@@ -1,0 +1,45 @@
+{
+	"EventName": "Nintendathon",
+	"StartDate": {
+		"day": "03",
+		"month": "06",
+		"year": "2019",
+	},
+	"notification":{
+		"notify": "true",
+		"NotifyLink": "https://www.twitch.tv/rapturelab/events",
+	},
+	"impact": {
+		"raised": "1947.18",
+		"hours": "368",
+		"charities": "8",
+	},
+	"schedule": "true",
+	"social": {
+		"twitter": {
+			"enable": true,
+			"username": "Nintendathon",
+		},
+		"youtube": {
+			"enable": true,
+			"username": "Nintendathon",
+		},
+		"snapchat": {
+			"enable": true,
+			"username": "Nintendathon",
+		},
+		"instagram": {
+			"enable": true,
+			"username": "Nintendathon",
+		},
+		"twitch": {
+			"enable": true,
+			"username": "Nintendathon",
+		},
+		"discord": {
+			"enable": true,
+			"username": "Nintendathon",
+		}
+	},
+	"WhatWeDo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+}
