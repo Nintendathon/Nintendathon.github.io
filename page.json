@@ -1,6 +1,23 @@
 {
-	"EventName": "Nintendathon",
+	"_comment": "Pretty obvious what goes in some of these spots but I am here to help! _comment = comments. :)",
+	"_comment": "JSON with enabled can be toggles on and off to customize the webpage to your needs",
+	"_comment": "",
+	"_comment": "",
+	"EventInfo": {
+		"UseLogo": true,
+		"EventName": "Nintendathon",
+		"_comment": "Logo must be x size",
+		"LogoFile": "",
+		"charity": "St. Jude",
+	},
+	"_comment": "link to some plane text total raised data used on Live webpage",
+	"TotalRaisedLink": "",
+	"_comment": "start date, MUST have 0 infront of single digit numbers.",
 	"StartDate": {
+		"_comment": "if StartDate is enabled true it will auto switch to the Live webpage when the date is hit",
+		"_comment": "if IsLive is set to true it will display Live webpage regardless if enabled is true or false",
+		"enabled": true,
+		"IsLive": false,
 		"day": "03",
 		"month": "06",
 		"year": "2019",
@@ -9,6 +26,7 @@
 		"notify": "true",
 		"NotifyLink": "https://www.twitch.tv/rapturelab/events",
 	},
+	"_comment": "impact is the impact of your marathon! raised is how much you raised, hours is how many hours played charities is amount of charities you've raised for.",
 	"impact": {
 		"raised": "1947.18",
 		"hours": "368",
@@ -17,27 +35,27 @@
 	"schedule": "true",
 	"social": {
 		"twitter": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		},
 		"youtube": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		},
 		"snapchat": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		},
 		"instagram": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		},
 		"twitch": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		},
 		"discord": {
-			"enable": true,
+			"enabled": true,
 			"username": "Nintendathon",
 		}
 	},
