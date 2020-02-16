@@ -1,14 +1,12 @@
 {
 	"_comment": "Pretty obvious what goes in some of these spots but I am here to help! _comment = comments. :)",
 	"_comment": "JSON with enabled can be toggles on and off to customize the webpage to your needs",
-	"_comment": "",
-	"_comment": "",
 	"EventInfo": {
 		"UseLogo": true,
 		"EventName": "Nintendathon",
 		"_comment": "Logo must be x size",
 		"LogoFile": "",
-		"charity": "St. Jude",
+		"charity": "St. Jude"
 	},
 	"_comment": "link to some plane text total raised data used on Live webpage",
 	"TotalRaisedLink": "",
@@ -18,46 +16,46 @@
 		"_comment": "if IsLive is set to true it will display Live webpage regardless if enabled is true or false",
 		"enabled": true,
 		"IsLive": false,
-		"day": "03",
-		"month": "06",
-		"year": "2019",
+		"day": "20",
+		"month": "07",
+		"year": "2020"
 	},
 	"notification":{
-		"notify": "true",
-		"NotifyLink": "https://www.twitch.tv/rapturelab/events",
+		"notify": true,
+		"NotifyLink": "https://www.twitch.tv/rapturelab/events"
 	},
 	"_comment": "impact is the impact of your marathon! raised is how much you raised, hours is how many hours played charities is amount of charities you've raised for.",
 	"impact": {
 		"raised": "1947.18",
 		"hours": "368",
-		"charities": "8",
+		"charities": "8"
 	},
-	"schedule": "true",
+	"schedule": true,
 	"social": {
 		"twitter": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		},
 		"youtube": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		},
 		"snapchat": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		},
 		"instagram": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		},
 		"twitch": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		},
 		"discord": {
 			"enabled": true,
-			"username": "Nintendathon",
+			"username": "Nintendathon"
 		}
 	},
-	"WhatWeDo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+	"WhatWeDo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 }
